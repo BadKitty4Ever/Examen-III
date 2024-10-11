@@ -1,0 +1,11 @@
+def mostrar_menu():
+    print("+","-"*20,"+")
+    print("[1] Agregar producto")
+    print("[2] Eliminar producto")
+    print("[3] Mostrar inventario")
+    print("[4] Mostrar valor total")
+    print("[5] Actualizar nombre")
+    print("[6] Actualizar cantidad")
+    print("[7] Actualizar precio")
+    print("[0] Salir")
+    print("+","-"*20,"+")
